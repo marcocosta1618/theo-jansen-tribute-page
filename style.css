@@ -73,9 +73,13 @@ p {
 .imgs-box-caption {
     font-size: 0.9em;
     text-indent: 2%;
+    padding: 5px 0 0;
 }
 
 .small-imgs-figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     background-color: #FFFBF6;
     max-width: 300px;
     padding: 3px;
