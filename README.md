@@ -10,6 +10,6 @@ This page is [hosted on GitHub Pages](https://marcocosta1618.github.io/theo-jans
 
 ---
 
-![TributePage_screenshot(60%)](https://user-images.githubusercontent.com/78434326/117514153-7f8e0800-af93-11eb-92c3-3c35bc0899b0.jpg)
+![screenshot(60%)](https://user-images.githubusercontent.com/78434326/117514153-7f8e0800-af93-11eb-92c3-3c35bc0899b0.jpg)
 
 
